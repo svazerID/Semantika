@@ -1,0 +1,7 @@
+{
+  "name": "Semantika - Interactive Semantic HTML Hub",
+  "description": "Platform edukasi interaktif Semantic HTML5 dengan live code editor, visualisasi DOM tree, perbandingan div vs semantic, linter HTML a11y, simulator screen reader, dan kuis pemahaman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
